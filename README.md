@@ -1,6 +1,6 @@
 # Face-Detector-Preview
 
-This a new method for real-time face and object detection. The source code and details will only come after my paper is published, due to the blind review and copy-right requirements.
+This a new method for real-time face and object detection. The source code and details will only come after my paper is published, due to the blind review and copyright requirements.
 
 Video Demonstration: 
 
